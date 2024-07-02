@@ -6,7 +6,7 @@ tmp/
 temp/
 
 # Angular configuration files
-#.angular/
+.angular/
 #angular.json
 tsconfig.json
 tslint.json
