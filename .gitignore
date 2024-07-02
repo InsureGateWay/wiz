@@ -1,0 +1,21 @@
+# Angular specific files and directories
+node_modules/
+dist/
+out-tsc/
+tmp/
+temp/
+
+# Angular configuration files
+.angular/
+angular.json
+tsconfig.json
+tslint.json
+karma.conf.js
+protractor.conf.js
+
+# Other typical files to ignore
+.DS_Store
+.env
+*.log
+*.bak
+*.tmp
