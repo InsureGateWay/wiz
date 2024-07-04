@@ -8,8 +8,8 @@ temp/
 # Angular configuration files
 .angular/
 #angular.json
-tsconfig.json
-tslint.json
+#tsconfig.json
+#tslint.json
 karma.conf.js
 protractor.conf.js
 
