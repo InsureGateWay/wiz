@@ -1905,6 +1905,8 @@ ol.list-num-count.list-outline-none>li:before {
 
 .sx-icon-box-wraper {
 	position: relative;
+	min-height: 250px;
+	max-height: 250px;
 }
 
 .sx-icon-box-wraper .sx-tilte {
